@@ -31,6 +31,16 @@ Q-Learning
 3. Run the app:
    python app.py
 
+Tech Stack
+
+- Python
+- NumPy
+- Gradio
+- Reinforcement Learning
+
+Demo
+
+"Live Demo Link" (https://huggingface.co/spaces/zubiya-maheen/traffic-signal-ai)
 🎯 Result
 
 The AI learns to reduce waiting time and traffic congestion over time.
